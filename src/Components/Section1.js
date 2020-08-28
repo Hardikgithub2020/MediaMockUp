@@ -19,9 +19,9 @@ function Section1(props) {
                 <img src="https://the-talks.com/wp-content/uploads/2016/05/Alicia-Keys-01.jpg"/>
                 <img src="https://the-talks.com/wp-content/uploads/2019/01/Chilly-Gonzales-01.jpg"/>
                 <img src="https://the-talks.com/wp-content/uploads/2014/09/Kevin-Kline-01.jpg"/>
-                <img src=""/>
-                <img src=""/>
-                <img src=""/>
+                <img src="https://foodtank.com/wp-content/uploads/2018/10/FTDanBarber-1.jpg"/>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQt3fbLOum4kwNvxZJGqUUn2CSKN8NZuzoG6g&usqp=CAU"/>
+                <img src="https://the-talks.com/wp-content/uploads/2014/09/Kevin-Kline-01.jpg"/>
                 
                 </div>
                 <h3>Life</h3>
