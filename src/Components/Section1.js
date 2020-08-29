@@ -4,11 +4,14 @@ function Section1(props) {
     return (
         <div className='Section1'>
             <div className='Section1A'>
-                <h6>NEW INTERVIEW</h6>
+            <span>NEW INTERVIEW</span>
                 <figure>
+                
                 <img src="https://the-talks.com/wp-content/uploads/2019/12/Matt-Damon-01-690x360.jpg" />
                 <figcaption>Matt Damon:"THESE TYPES OF MOVIES AREGOING AWAY"</figcaption>
                 </figure>
+                <hr/>
+
                 <h3>Mr. Damon, how do you define success?</h3>
                 <p>It’s the work. It’s the process itself. I have done enough movies now — movies that have failed, movies that have been successful. All we have as the people making it is the love of the doing of it. I am aware of the results because I have to be; it has an impact on my career so I can’t be ignorant of the movies that I am doing. But it’s really about feeling that I did my best work, the best work I could do under the circumstances, feeling that we told the story we wanted to tell in the way we wanted to tell it. That’s really the definition of success.</p>
                 <h3>So for you it’s about the journey?</h3>
@@ -26,8 +29,11 @@ function Section1(props) {
                 </div>
                 <h3>Life</h3>
                 <div className="Section1BQuote">
+                
                     <div className="quote">
                         <p>It’s the work. It’s the process itself. I have done enough movies now — movies that have failed, movies that have been successful</p>
+                     
+
                     </div>
                     {/* <div className="quote">
                         <p>It’s the work. It’s the process itself. I have done enough movies now — movies that have failed, movies that have been successful</p>

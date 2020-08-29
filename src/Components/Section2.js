@@ -2,9 +2,10 @@ import React from 'react';
 
 function Section2(props) {
     return (
-        <div>
+        <div className='Section2'>
         <h1>Most view interview</h1>
-        <div className="Section2">
+        <div className="Section2A">
+        
             <figure>
             <img src="https://the-talks.com/wp-content/uploads/2016/05/Alicia-Keys-01.jpg"/>
             <figcaption><h6>Alicia Keys</h6>"IT CAN'T HOLD ANY MORE"</figcaption>
