@@ -3,6 +3,7 @@ import React from 'react';
 function Section2(props) {
     return (
         <div className='Section2'>
+            <hr/>
         <h1>Most view interview</h1>
         <div className="Section2A">
         
